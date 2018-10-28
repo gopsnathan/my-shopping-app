@@ -7,7 +7,6 @@
 <div class="row" ingredientColor>
   <div class="col-xs-12">
     <app-recipe-item *ngFor="let recipe of recipes"
-                      [recipeData] = "recipe"
-                      (recipeItemSelected)="onSelectedRecipe(recipe)"></app-recipe-item>
+                      [recipeData] = "recipe"></app-recipe-item>
   </div>
 </div>
