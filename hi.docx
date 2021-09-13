@@ -1,1 +1,265 @@
 
+Sambantham Kuppusamy
+Sr. C# Developer
+Overland Park, KS 66213
+
+Email: sambanthamk@gmail.com
+Home Phone: +1 (913) 390-3015
+
+
+Computer Experience
+
+Software development with over 11 Years of experience in design, development, testing and maintenance of software applications. Well conversant with all the phases of Software Development Life Cycle (SDLC). Has very good experience of various software tools like C#, Vb.net, VB6, SQL Server, Work Flow & Windows communication foundation.
+
+Summary
+•	Solid understanding of Web Server development (HTML4, Java Script, NPM, Type Script, C#, JSON, XML, Restful, ASP.NET and Web Services)
+•	Proficient in languages such as C#, ASP.NET,  Java Script, Typescript & Angular
+•	Proven Responsive UX development skills (HTML4, Java Script, CSS, Bootstrap, Angular)
+•	Strong working knowledge of Microsoft SQL, SQL Server Reporting Services, SQL Server Integration Services and SQL Data Transformation Services
+•	T-SQL: Stored procedures, Functions, Views, Relations, Tables and Triggers
+•	Strong knowledge of database structure and design
+•	Excellent verbal and written communication skills
+•	Ability to analyze and resolve day-to-day problems, manage multiple concurrent tasks and shifting priorities, interact with both technical and business partners
+•	Ability to work with little supervision
+•	Expertise in writing business solutions using Object-Oriented Concepts with .NET Framework 
+•	Extensive experience in working with ASP.NET Web Forms, User Controls, Master Page, various types of Data Bound Controls and AJAX Extension 
+•	Working experience with HTML 4.01, CSS 3, Bootstrap 4, Typescript  & Angular 7.2
+•	Attended daily project stand ups using Agile, Scrum, 3 week Sprints
+•	Used GitHub & Jira
+•	Proficiency in MVC, MVP and MVVM patterns
+•	Good Working Experience in MVC, MVW and Service Oriented Architecture (SOA), Web API, WCF and Web Services 
+
+Technical Skill
+•	Languages : 		ASP.NET, VB.Net, C#
+•	Web: 			HTML, XML, WSDL, SOAP, JSON, Restful
+•	Dot Net: 			.Net Framework 4.5. .Net Core 3.1
+•	RDBMS :		 	SQL Server 2008, 2012, 2017 & Oracle
+•	OS: 			XP, Windows 7 & Windows 8
+•	Architectural patterns: 	MVC, MVP & MVVM
+•	Reports: 			SQL Server Reporting Services
+•	Source Control: 		Team Foundation Server (TFS) & GIT Hub
+
+
+Education
+•	Post Graduate Diploma in Operations Research - Anna University, Chennai, INDIA
+•	Bachelor of Engineering (Computer Science) - Madurai Kamarajar University, Madurai, INDIA
+
+Certification
+•	Microsoft Certified Technology Specialist: .Net framework 4, Web Applications. 
+Professional Experience
+
+Angular Developer		UMB Bank		Kansas City, MO			Oct/2019 – Mar/2020
+
+Bill Pay System
+ 	The bank uses the internally developed Bill Pay System which is linked with the core banking system to pay bills by the user.  It has facilities to setup payees, regular payments and recurring payments. The Bill Pay system is developed in house and aligned to the main core banking system. Multi payments and filtering payments based on certain criteria are available to the users. Email notifications and vacation notifications are added. Address verification is also done using 3rd party web services.
+Responsibilities:
+•	Design & Development of user components using angular forms
+•	Written client side code using angular
+•	Written server side code using MVC pattern
+•	Written and modified the views and stored procedures 
+•	Designed with domain based 3 tiered system 
+
+
+Environment:  Angular 7.2, Angular components , Typescript, GIT, HTML 4.1, Bootstrap 4.3, CSS 3, Visual Studio 2019, C# 2019, .Net Core 3.1, SQL Server 2019, T-SQL, stored procedure and views & Restful WCF Web Services.
+
+
+C# Developer		Grocery Order Tracking		 Leawood, KS			May/2019 –  Aug/2019
+
+Grocery Order Tracking System
+		This is an inventory management system, by which the company manages the inventory, making barcodes and checking duplicates. Minimum order quantity is calculated on a timely basis and refill orders are created automatically. Batch numbers are printed with barcodes with item and group numbers. Duplication stock items are checked using the tool developed.
+Responsibilities:
+•	Design & Development of duplicate verification user form using windows forms 
+•	MS SQL server tables design
+•	Created separate complex views and stored procedures
+•	Written code behind using C#
+•	Deployed the application to central remote server 
+
+
+Environment:  C# 2017, Windows Forms, SQL Server 2015, T-SQL, stored procedure and views, 
+
+
+System Developer			Great Plains Laboratory		Lenexa, KS		Aug/2017 – Apr/2019
+
+Clinician Portal system
+The lab issues test results in pdf format. The results are uploaded to results folder and the clients can view the results online as soon as it is available. For this purpose a separate web portal is developed and published to https site. Clients are given user id and password to logon to the web site. Results can be downloaded from client sites using any standard browsers. Once downloaded the results are marked as downloaded using a separate flag. The new results can be viewed as separate option.
+Responsibilities:
+•	Design of web site from beginning
+•	Development of web pages using web forms 
+•	Written code behind using C#
+•	Designed logic and written code for zipping of several files into one compressed file.
+•	Designed login and user roles and responsibility 
+
+
+Laboratory Information System
+This is home grown lab information management system. When the specimen comes in to the lab details are captured in to the main repository using various techniques like barcode technology and converting excel data in to the MS SQL database.  Various checks are done before concluding al information is readily available for further processing.  A tracking module is capturing comments and date stamp at different points. Finally lab results entered into system. The whole system is role based and only the relevant people can see what they can see. Approvals are done by managers only. 
+Responsibilities:
+•	Design & Development of user forms using windows forms 
+•	MS SQL server tables design
+•	Written code behind using C#
+•	Written T-SQL for supporting logics for the forms
+•	Designed with Domain based 3 tiered system 
+•	Designed logic and written code for complex lab information processing.
+•	Designed local windows login and user roles and responsibility 
+
+
+Environment:  C# 2017, SQL Server 2008, T-SQL, stored procedure and views, WCF Web Services & SQL Server 2008,  JQuery, JavaScript, HTML 4.01, Bootstrap 4, CSS 3.
+
+
+
+C# Developer		Federal Reserve Bank		Kansas City, MO			Jan/2017 – Jul/2017
+
+Bank Examination & Supervisory System
+The bank examination portal helps the examiners to identity safe, sound and accessible financial system. Several documents are created by the system to view and print the financial and other metrics of the health of banks. Web pages are used to track the workflow of the examination process and approvals.
+
+Responsibilities:
+•	Development of web pages using MVC pattern 
+•	Development of word report documents
+•	Written code for integrated and unit testing
+•	Reviewed code and deployed to different environments
+•	Supporting of SQA tests and worked with Business Analysts to User acceptance.
+
+Environment:  Angular 2.0, HTML, CSS, Typescript, C# 2015, MVC 4, SQL Server 2008 & TFS. 
+
+Sr. Web Developer		American Century Investments	Kansas City, MO			May/2015 – Dec/2016
+
+Technical Access Report Management System 
+This is an intranet based portal system where roles and custodians are assigned to different resources by the admin group. Each Employee can be assigned to maintain different level of access to the resources. Access level to different employees can be compared by comparison report.  Reports can be exported to excel sheets as required. Change management policies can be maintained using the system.
+Responsibilities:
+•	Design and development of base modules
+•	Created high level tabs in the main page
+•	Created various reports 
+•	Tested the base system 
+•	Created deployment scripts to deploy to servers.
+
+Environment: C#.Net, Oracle PL/SQL, SQL Server 2008 & DB2.
+
+Sr. Web Developer		Quest Diagnostics			Lenexa, KS			Mar/2014 – Feb/2015
+
+Employer Solutions Portal
+This is an integrated web portal where employers can order drug tests before employees join the work force. Several panels of tests can be ordered for different accounts within the organization. Templates can be created for quick orders and the results of the tests can be viewed by authorized personal. Management reports can be viewed for different group levels.
+Responsibilities:
+•	Development and coding various modules
+•	Written model view controllers in coding
+•	Written web services to integrate various systems
+•	Written multi-threading code to call web services using Google Maps API
+•	Created deployment code for deploying the project to various environments
+•	Unit testing and crated acceptance criteria
+
+Environment: 	C#.Net, Oracle PL/SQL, SQL Server 2008, JIRA, TeamCity, Web Services, HTML, CSS, Bootstrap, Angular.JS & Typescript.
+
+
+CRM Developer			CRM Innovation		Overland Park, KS		Jul/2013 – Dec/2013
+Event to CRM Integration System
+This is integration system of events between Dynamics CRM and an Event management system application which exchanges the events and related entities. Information like registrants orders and check-in information are extracted from Eventbrite to CRM in a timely manner. Event information like venue, date and time, number of seats available are pushed from CRM to Eventbrite on request.
+Responsibilities:
+•	Design & development system
+•	Written update data to the CRM database using web services
+•	Written multi-threading code for accessing CRM interface
+•	Written plugin code using c#.net.
+•	Installing CRM application to various clients online and on premise
+•	Unit testing before publishing new solutions
+
+Environment: C#.NET 2012, VS 2012, Microsoft Dynamics CRM 2011, WCF, JavaScript, JQuery, Eventbrite API & Plugins
+
+C# Developer 	Actuarial Resources Corporation 		Overland Park, KS 		Jan/2013 - June/2013
+
+ARCVAL Financial System
+
+ARCVAL is a comprehensive, integrated system for valuation, financial reporting, financial forecasting, experience analysis and earnings analysis of universal life, traditional life, annuity, health and structured settlement business. The speed of the calculations and the ease of use of the integrated user interface is a direct result of the technology chosen for each facet of our software operations.
+
+Responsibilities:
+•	Design & Development using Model-View-Presenter architecture
+•	mapping the database using n-Hibernate
+•	Written multi-threading code to access data and calculations
+•	Coding the screen in C#
+•	Unit testing the model and presenter classes.
+
+Environment: 	C#.Net 2010, SQL Server 2008, N-Hibernate, MVP pattern, TFS, Dev Express & Win Forms.
+
+
+
+
+Sr. SQL Developer 	Heartland Services	Leawood, KS 				May/2012 – Dec/2012
+
+Asset & Inventory Management System
+
+This system is used for tracking assets and inventory of servicing of computer laptops and projectors. The servicing can be in warranty and out of warranty. Problems reported are recorded in the call center and charges are calculated for the defective parts. The system also tracks of shipping and invoicing to the customers.
+
+Responsibilities:
+
+•	Re-designing the database to SQL Server database
+•	Created data migration path for migrating data
+•	Written stored procedures for complex business needs
+•	Added work flow rule engine modules
+
+Environment: 	C# 2010, ASP.NET, SQL Server 2008, WCF, WF & WPF
+
+
+
+
+VB.Net Developer 			CSC 	Overland Park, KS 				01/2012 – 04/2012
+
+Nutrition Management System
+
+	This system is to monitor the health status of women, infant and children of different states through volunteered health organizations. Data is collected through visiting medical staffs and entered into the central server and updated periodically. Different reports and statistics are generated from the central server every month and send to the health organizations.
+
+Responsibilities:
+•	Design and development of error handling modules
+•	Written extra modules for different projects for calling error handler
+•	Tested the modules for various error handling situations
+
+Environment: 	VB.Net 2010, SQL Server 2008 & Web services
+
+
+
+
+VB.Net Developer 		VentureUS Enterprises 		Kansas City, KS 			01/2011 – 12/2011
+
+Enrollment Management System
+
+Enrollment system is the system used by insurance broker agents to enroll employees to different types of dental, vision and life insurances of different carriers. Takes input as employee information, date of birth, etc. System calculates monthly premium from effective date. Spouse and children rates are calculated separately.
+
+Responsibilities:
+• Design of the new system
+• Tables, stored procedures and views are created
+• Design of web pages using asp.net
+• Written VB code to main pages and enrollment pages, etc.
+
+Environment: 	VB.Net 2010, ASP.NET, VISIO, AJAX, JavaScript & SQL Server 2008.
+
+
+
+
+VB. Net Developer 		FHL Bank of Topeka 		Topeka, KS 		Oct/2010 – Dec/2010
+
+Mortgage Lending System
+
+Integrated Mortgage Lending System is used to monitor member banks and other credit members. Lending systems gives several modules to assist lending process for the lending analysts.
+
+Responsibilities:
+•	Design and development of new screens, reports and extracts.
+•	Integrated the new developed module with existing core banking system
+•	Worked in Agile method of design and developing
+•	Tested the developed system
+
+Environment: 	ASP.NET 2005, VB.NET, JIRA, Team City & SQL Server 2008
+
+
+
+
+C# Developer 	Ericsson 				Overland Park, KS 			Jan/2010 – Sep/2010
+
+Trouble Management System
+
+Trouble management system is used to create tickets for the phone line troubles and used to create work orders based on the priority list. The details are sent over to another dispatch system through web services. The data is sent through ANSI TML standards and acknowledgment is received on the other side. Based on fault codes received certain actions are taken to complete the process on the work force management system.
+
+Responsibilities:
+•	Written Code for Web Services connecting trouble system and work force management system
+•	Assignment of work force based on the trouble code
+•	Fault code processing and management on the XML files
+•	Exception handling on message queue system
+•	Passing the message to the mainframe queue
+
+Environment: 	ASP.NET 2008, C#.Net, Web Services 2.0, Oracle 10g, PL/SQL.
+
+
